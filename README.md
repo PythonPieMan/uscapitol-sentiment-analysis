@@ -33,7 +33,7 @@ Finally, for my analysis in Python, I decided to generate a line chart showing c
 
 ![](USCapitolSentimentImages/Tweet_Polarity_over_Time.PNG)
 
-The results here are really be contingent upon how long it took for Twitter users to write 1000 tweets, but we can see that in a span of 50 seconds, sentiment was quite volatile, as people from all walks of life occupy Twitter accounts. 🤷‍♂️
+The results here are really contingent upon how long it took for Twitter users to write 1000 tweets, but we can see that in a span of 50 seconds, sentiment was quite volatile, as people from all walks of life occupy Twitter accounts. 🤷‍♂️
 
 -------------------------------
 
