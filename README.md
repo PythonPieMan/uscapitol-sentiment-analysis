@@ -24,7 +24,7 @@ As mentioned earlier, I had generated the polarity and subjectivity values for t
 
 The result, I thought, was something super interesting to see. There seems to be a fairly even distribution in terms of polarity, but the subjectivity displays what almost looks like a funnel. That is, many of the points are located in the upper part of the grid and gradually taper off towards zero - 1 meaning super opinionated, 0 meaning completely objective language.
 
-Essentially, this is telling us the obvious - people generally have very strong opinions around Capitol Hill being invaded
+Essentially, this is telling us the obvious - people generally have very strong opinions around Capitol Hill being invaded.
 
 -------------------------------
 # Line Chart
