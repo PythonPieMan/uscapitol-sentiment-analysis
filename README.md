@@ -63,7 +63,7 @@ If you're struggling to see whether anger or fear take first prize, here's some 
 
 Note that the polarities (positive and negative) are separate from the actual emotions. 
 
-We can see that fear and anger max out as the top sentiments here, followed by trust(?), and then surprise. This isn't too surprising given what occured yesterday as unprecedented division and inflammatory rhetoric came to a head.
+We can see that fear and anger max out as the top sentiments here, followed by trust(?), and then surprise. This isn't too surprising given what occurred yesterday as unprecedented division and inflammatory rhetoric came to a head.
 
 -------------------------------
 Overall, I really enjoyed learning more about how people feel about what happened at the US Capitol building yesterday. I definitely did not do this alone and relied mostly on other scripts and several YouTube videos to help get me to this point, but I really don't feel like this analysis is quite complete. 
