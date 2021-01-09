@@ -22,7 +22,7 @@ As mentioned earlier, I had generated the Polarity and Subjectivity values for t
 
 ![](USCapitolSentimentImages/Twitter_Polarity_vs_Subjectivity.PNG)
 
-The result, I thought, was something super interesting to see. There seems to be a fairly even distribution in terms of Polarity, but the Subjectivity displays what almost looks like a funnel. That is, many of the points are located in the upper part of the grid and gradually taper off towards zero - 1 meaning super opinionated, 0 meaning completely objective language.
+The result, I thought, was something super interesting to see. There seems to be a fairly even distribution in terms of Polarity, but the Subjectivity displays what almost looks like a funnel. That is, many of the points are located in the upper part of the grid and gradually taper off towards zero - 1 meaning super opinionated, 0 meaning completely objective language. This also suggests that the more opinionated people are (one way or the other), the more subjective their language.
 
 Essentially, this is telling us the obvious - people generally have very strong opinions around Capitol Hill being invaded.
 
