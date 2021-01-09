@@ -3,7 +3,7 @@ Sentiment Analysis on Tweets about the "US Capitol"
 
 Yesterday, the US Capitol was breached for the first time since the 19th century. Inspired by my growing interest in NLP, I decided to conduct a sentiment analysis to gauge public opinion regarding the events of this week. I used both Python and R for this analysis, and included information on tweet Polarity, Subjectivity, Term Prevalence, and Emotions.
 
-Soon, I hope to update this analysis by adding information on most frequently associated words in the tweets using the Apyori Eclat method.
+Soon, I hope to update this analysis by adding information on most frequently associated words in the tweets by looking at some bigrams and n-grams.
 
 
 -------------------------------
@@ -68,4 +68,4 @@ We can see that fear and anger max out as the top sentiments here, followed by t
 -------------------------------
 Overall, I really enjoyed learning more about how people feel about what happened at the US Capitol building yesterday. I definitely did not do this alone and relied mostly on other scripts and several YouTube videos to help get me to this point, but I really don't feel like this analysis is quite complete. 
 
-I recently had the privilege of learning about some of the principles of association rules, including Apriori and Eclat. As mentioned earlier, I'd love to apply Eclat to at least 1000 tweets as well to explore the most closely associated terms. Until then though, I hope you enjoyed and found value in my analysis.
+I'd love to look at some bigrams and n-grams for at least 1000 tweets as well to explore the most closely associated terms. Until then though, I hope you enjoyed and found value in my analysis.
