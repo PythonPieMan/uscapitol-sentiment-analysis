@@ -69,12 +69,3 @@ We can see that fear and anger max out as the top sentiments here, followed by t
 Overall, I really enjoyed learning more about how people feel about what happened at the US Capitol building yesterday. I definitely did not do this alone and relied mostly on other scripts and several YouTube videos to help get me to this point, but I really don't feel like this analysis is quite complete. 
 
 I'd love to look at some bigrams and n-grams for at least 1000 tweets as well to explore the most closely associated terms. Until then though, I hope you enjoyed and found value in my analysis.
-
--------------------------------
-# Update 2021-01-11
-
-On the cusp of rendering a really cool bigram plot. I was able to generate a script for it, but the plotting component seems to be focusing on a handful of tweets, seen here:
-
-![](USCapitolSentimentImages/bigramsplot1.PNG)
-
-I'll work on the script a little more later and see if I can make this visualization more insightful.
